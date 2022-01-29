@@ -12,11 +12,11 @@
 
 ### Languages and tools
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=#white&style=for-the-badge" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="MatLab" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-#3776AB?logo=python&logoColor=#white&style=for-the-badge" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-#EE4C2C?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-#FF6F00?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-#7F52FF?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-#007396?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
