@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JKJIN1999
-- 👀 I’m interested in Android Systmes and Lost Ark
-- 🌱 I’m currently learning Flutter and Java Script
+- 👋 Hi, I’m Jin
+- 👀 I’m interested in Artificial Intelligence and Music
+- 🌱 I’m currently learning AI related codings and articles.
 - 💞️ I’m looking to collaborate on any fun projects
 - 📫 How to reach me (rlawnrud911@gmail.com)
 
