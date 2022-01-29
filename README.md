@@ -10,7 +10,7 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![JKJIN1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKJIN1999&theme=dark&show_icons=true)
 
 <!---
 JKJIN1999/JKJIN1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
