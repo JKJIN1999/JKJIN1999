@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on any fun projects
 - ⚡ Fun fact: I like to do everything but is also good at everything
 - 📫 How to reach me (rlawnrud911@gmail.com)
-
+- ps. I'll be casually working on many AI projects so if your free, hop in to my proejct :D
 <br />
 
 ![JKJIN1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKJIN1999&theme=dark&show_icons=true)
