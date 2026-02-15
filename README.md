@@ -62,7 +62,7 @@ I enjoy turning research ideas into real-world AI systems.
 
 ## 📈 GitHub Stats
 
-![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKJIN1999&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JKJIN1999&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
