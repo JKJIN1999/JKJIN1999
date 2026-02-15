@@ -45,6 +45,9 @@ I enjoy turning research ideas into real-world AI systems.
 <p>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" />
+  <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Backend / DevOps
