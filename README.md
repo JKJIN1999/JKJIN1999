@@ -1,4 +1,4 @@
-# 🚀 Jugyeong Kim (Jin)
+# Jugyeong Kim (Jin)
 
 **AI Engineer | Data Scientist | Researcher**  
 Master of Data Science @ University of Melbourne  
