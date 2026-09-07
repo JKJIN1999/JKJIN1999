@@ -7,7 +7,7 @@ Master of Data Science @ University of Melbourne
 
 ## 📈 GitHub Stats
 
-![JKJIN1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKJIN1999&show_icons=true&theme=dracula)
+<img src="https://ghchart.rshah.org/219138/JKJIN1999"/>
 
 ---
 
