@@ -5,6 +5,12 @@ Master of Data Science @ University of Melbourne
 
 ---
 
+## 📈 GitHub Stats
+
+![JKJIN1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKJIN1999&show_icons=true&theme=dracula)
+
+---
+
 ## 👋 About Me
 
 Hi, I’m Jin — an AI-focused Data Science graduate student based in Melbourne.
@@ -57,12 +63,6 @@ I enjoy turning research ideas into real-world AI systems.
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-![JKJIN1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKJIN1999&show_icons=true&theme=dracula)
 
 ---
 
