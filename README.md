@@ -2,6 +2,8 @@
 
 **AI Engineer | Data Scientist | Researcher**  
 Master of Data Science @ University of Melbourne  
+Research Assistant of FEEL Lab @ University of Melbourne
+Forwarded Developer @ Melbourne Data Analytics Platform 
 
 ---
 
